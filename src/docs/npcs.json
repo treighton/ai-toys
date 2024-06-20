@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Elias Whitman",
+        "personality": "Wise, cautious, and obsessed with the occult. He is deeply committed to uncovering the truth about the cosmic conspiracy.",
+        "background": "A distinguished scholar known for his deep knowledge of the occult and the Cthulhu Mythos. He is a mentor to many aspiring occultists and investigators of the unknown.",
+        "quirks": "Often emphasizes caution and preparation when dealing with cosmic forces. Speaks in a scholarly and formal manner."
+      },
+      {
+        "name": "Madame Isolde",
+        "personality": "Mysterious, enigmatic, and possibly clairvoyant. She seems to have insights into the future and a connection to the occult.",
+        "background": "A fortune teller who operates in the shadows of Arkham, offering cryptic readings and divinations to those who seek her services.",
+        "quirks": "Speaks in riddles and cryptic language, often leaving players with more questions than answers."
+      },
+      {
+        "name": "Inspector Horowitz",
+        "personality": "Skeptical, no-nonsense, and determined. He is a no-frills detective who takes his job seriously.",
+        "background": "A detective with the Arkham Police Department, known for his ability to solve complex cases. He's been investigating strange occurrences related to the cult.",
+        "quirks": "Has a penchant for strong coffee and often relies on logic and evidence."
+      },
+      {
+        "name": "Sister Abigail",
+        "personality": "Compassionate, spiritual, and deeply devoted to her faith. She offers comfort and guidance in troubled times.",
+        "background": "A nun at the local church in Arkham, Sister Abigail provides spiritual support to the townsfolk and seeks to counter the influence of the cult.",
+        "quirks": "Quotes scriptures and prays for the well-being of those she encounters. Carries a small vial of holy water."
+      }
+]
